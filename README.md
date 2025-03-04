@@ -1,6 +1,4 @@
-¡Claro! Aquí tienes un README sencillo para tu proyecto en GitHub:
 
-```markdown
 # Proyecto de Desarrollo Web
 
 Este es un proyecto de desarrollo web construido con **JavaScript** y **CSS**. Aquí se muestran algunos de los elementos básicos de una aplicación web interactiva.
