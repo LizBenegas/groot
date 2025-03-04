@@ -48,7 +48,5 @@ Este proyecto tiene como objetivo crear una aplicación web que sea simple, func
 - [Twitter](https://twitter.com/lizbenegas)
 - [Correo electrónico](mailto:lizbenegas@example.com)
 ```
+😊
 
-Este README es sencillo pero cubre lo esencial sobre el proyecto, como las tecnologías usadas, las funcionalidades, la estructura del proyecto, cómo empezar a usarlo y tus datos de contacto.
-
-¡Espero que te sirva! Si necesitas más detalles o ajustes, avísame. 😊
